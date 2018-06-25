@@ -1,0 +1,39 @@
+.node-header {
+    color: #EEEEEE;
+    padding-bottom: 5px;
+}
+
+.node-id {
+    color: #EEEEEE;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+    display: inline-block;
+    float: left;
+    margin-right: 30px;
+    max-width: 100px;
+}
+
+.node-id:focus {
+    outline: none;
+}
+
+.edit-id {
+    color: #4adee6;
+}
+
+input[readonly] {
+    cursor: default;
+}
+
+.fa-pencil {
+    display: inline-block;
+}
+
+.fa-pencil:hover {
+    color: #1e9eff;
+}
+
+.fa-pencil:active {
+    color: #4adee6;
+}

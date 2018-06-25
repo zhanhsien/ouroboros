@@ -1,0 +1,19 @@
+.node-container {
+    background-color: #000000;
+    padding: 5px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #888888;
+    border-radius: 10px;
+    max-width: 150px;
+}
+
+.node-panel {
+    background-color: #444444;
+    color: #DDDDDD;
+    padding: 5px 10px 10px 10px;
+    margin: 0px -5px -5px -5px;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    text-align: left;
+}

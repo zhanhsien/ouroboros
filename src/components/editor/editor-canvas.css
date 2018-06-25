@@ -1,0 +1,4 @@
+.svg-panel {
+    position: absolute;
+    z-index: 9000;
+}
